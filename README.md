@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a final year CSE student eager to build robust and scalable systems, be a part of something that can have a huge impact! I love learning more and thoroughly enjoy implementing. I am also got quite a knack of leading teams and working collaboratively.
+I am a final year CSE student eager to build robust and scalable systems, be a part of something that can have a huge impact! I love learning more and thoroughly enjoy implementing. I also got quite a knack of leading teams and working collaboratively.
 
 - 🌱 I’m currently learning **AWS and full-stack developement**
 
